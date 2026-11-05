@@ -1,6 +1,9 @@
 ### Hi, I'm Mateusz
 
-PHP and full-stack developer from Poland. I co-founded TECHTREE SOLUTIONS and I'm building **sitebyte**, a website service for businesses and organisations.
+PHP and full-stack developer from Poland. I co-founded [TECHTREE SOLUTIONS](https://techtreesolutions.net) and I'm building [**sitebyte**](https://sitebyte.pl), a website service for businesses and organisations.
+
+🌐 **[sitebyte.pl](https://sitebyte.pl)** · websites for businesses and organisations  
+🏢 **[techtreesolutions.net](https://techtreesolutions.net)** · software for businesses
 
 **What I work with**
 
