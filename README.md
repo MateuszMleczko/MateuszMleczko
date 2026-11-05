@@ -17,4 +17,4 @@ PHP and full-stack developer from Poland. I co-founded [TECHTREE SOLUTIONS](http
 
 Most of my commercial work lives in private repositories. [TaskHub](https://github.com/MateuszMleczko/task-hub) is a public example of how I build things.
 
-Get in touch: kontakt@sitebyte.pl
+Get in touch: mateusz.mleczko@techtreesolutions.net or mateusz.mleczko@sitebyte.pl
